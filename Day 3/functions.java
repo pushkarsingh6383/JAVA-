@@ -9,8 +9,7 @@ class functions{
         Scanner sc = new Scanner(System.in);
         String name = sc.next();
         func(name);
-        
-
+        sc.close();
 
     }
 }
